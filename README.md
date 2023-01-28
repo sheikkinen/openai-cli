@@ -6,5 +6,5 @@
 2. Set environment variable OPENAI_API_KEY
 3. npm install
 4. node meta.js "explain the code" ./meta.js
-...
 4. node meta.js "Convert code to C programming language" ./meta.js
+4. node meta.js "..."
